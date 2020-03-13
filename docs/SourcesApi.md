@@ -17,15 +17,22 @@ Get a source
 
 ### Example
 
+* Basic Authentication (basic_auth):
 ```python
 from __future__ import print_function
 import time
 import openapi_client
 from openapi_client.rest import ApiException
 from pprint import pprint
+configuration = openapi_client.Configuration()
+# Configure HTTP basic authorization: basic_auth
+configuration.username = 'YOUR_USERNAME'
+configuration.password = 'YOUR_PASSWORD'
 
+# Defining host is optional and default to https://cloud.redhat.com/api/cost-management/v1
+configuration.host = "https://cloud.redhat.com/api/cost-management/v1"
 # Enter a context with an instance of the API client
-with openapi_client.ApiClient() as api_client:
+with openapi_client.ApiClient(configuration) as api_client:
     # Create an instance of the API class
     api_instance = openapi_client.SourcesApi(api_client)
     source_id = 1 # int | ID of source to get
@@ -50,7 +57,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-No authorization required
+[basic_auth](../README.md#basic_auth)
 
 ### HTTP request headers
 
@@ -74,15 +81,22 @@ Get a source statistics
 
 ### Example
 
+* Basic Authentication (basic_auth):
 ```python
 from __future__ import print_function
 import time
 import openapi_client
 from openapi_client.rest import ApiException
 from pprint import pprint
+configuration = openapi_client.Configuration()
+# Configure HTTP basic authorization: basic_auth
+configuration.username = 'YOUR_USERNAME'
+configuration.password = 'YOUR_PASSWORD'
 
+# Defining host is optional and default to https://cloud.redhat.com/api/cost-management/v1
+configuration.host = "https://cloud.redhat.com/api/cost-management/v1"
 # Enter a context with an instance of the API client
-with openapi_client.ApiClient() as api_client:
+with openapi_client.ApiClient(configuration) as api_client:
     # Create an instance of the API class
     api_instance = openapi_client.SourcesApi(api_client)
     source_id = 1 # int | ID of source to get
@@ -107,7 +121,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-No authorization required
+[basic_auth](../README.md#basic_auth)
 
 ### HTTP request headers
 
@@ -131,15 +145,22 @@ List the sources
 
 ### Example
 
+* Basic Authentication (basic_auth):
 ```python
 from __future__ import print_function
 import time
 import openapi_client
 from openapi_client.rest import ApiException
 from pprint import pprint
+configuration = openapi_client.Configuration()
+# Configure HTTP basic authorization: basic_auth
+configuration.username = 'YOUR_USERNAME'
+configuration.password = 'YOUR_PASSWORD'
 
+# Defining host is optional and default to https://cloud.redhat.com/api/cost-management/v1
+configuration.host = "https://cloud.redhat.com/api/cost-management/v1"
 # Enter a context with an instance of the API client
-with openapi_client.ApiClient() as api_client:
+with openapi_client.ApiClient(configuration) as api_client:
     # Create an instance of the API class
     api_instance = openapi_client.SourcesApi(api_client)
     type = 'type_example' # str | The type of source to filter for. (optional)
@@ -170,7 +191,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-No authorization required
+[basic_auth](../README.md#basic_auth)
 
 ### HTTP request headers
 
@@ -192,15 +213,22 @@ Update a source
 
 ### Example
 
+* Basic Authentication (basic_auth):
 ```python
 from __future__ import print_function
 import time
 import openapi_client
 from openapi_client.rest import ApiException
 from pprint import pprint
+configuration = openapi_client.Configuration()
+# Configure HTTP basic authorization: basic_auth
+configuration.username = 'YOUR_USERNAME'
+configuration.password = 'YOUR_PASSWORD'
 
+# Defining host is optional and default to https://cloud.redhat.com/api/cost-management/v1
+configuration.host = "https://cloud.redhat.com/api/cost-management/v1"
 # Enter a context with an instance of the API client
-with openapi_client.ApiClient() as api_client:
+with openapi_client.ApiClient(configuration) as api_client:
     # Create an instance of the API class
     api_instance = openapi_client.SourcesApi(api_client)
     source_id = 1 # int | ID of source to update
@@ -227,7 +255,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-No authorization required
+[basic_auth](../README.md#basic_auth)
 
 ### HTTP request headers
 

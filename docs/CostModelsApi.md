@@ -208,15 +208,22 @@ List the cost models
 
 ### Example
 
+* Basic Authentication (basic_auth):
 ```python
 from __future__ import print_function
 import time
 import openapi_client
 from openapi_client.rest import ApiException
 from pprint import pprint
+configuration = openapi_client.Configuration()
+# Configure HTTP basic authorization: basic_auth
+configuration.username = 'YOUR_USERNAME'
+configuration.password = 'YOUR_PASSWORD'
 
+# Defining host is optional and default to https://cloud.redhat.com/api/cost-management/v1
+configuration.host = "https://cloud.redhat.com/api/cost-management/v1"
 # Enter a context with an instance of the API client
-with openapi_client.ApiClient() as api_client:
+with openapi_client.ApiClient(configuration) as api_client:
     # Create an instance of the API class
     api_instance = openapi_client.CostModelsApi(api_client)
     offset = 0 # int | Parameter for selecting the offset of data. (optional) (default to 0)
@@ -253,7 +260,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-No authorization required
+[basic_auth](../README.md#basic_auth)
 
 ### HTTP request headers
 

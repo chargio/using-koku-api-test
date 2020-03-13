@@ -60,12 +60,17 @@ else:
     username = password = ""
 
 
+#
+# Environment variables take precedence to config file
+#
 username = os.environ.get(ENV_USERNAME, username)
 password = os.environ.get(ENV_PASSWORD, password)
 
+# Check if there are actually auth headers properly done.
 if(len(username) == 0 or len(password) == 0):
     print("ERROR: No configuration for username or password ")
     usage()
+
 
 # Configure open_api client to access cost management
 configuration = openapi_client.Configuration()
@@ -82,14 +87,14 @@ with openapi_client.ApiClient(configuration) as api_client:
         api_response = api_instance.list_cost_models()
         pprint(api_response)
     except ApiException as e:
-        print("Exception when calling CostModelsApi->create_cost_model: %s\n" % e)
+        print("Exception when calling CostModelsApi->list_cost_models: %s\n" % e)
 
 
 # Enter a context with an instance of the API client
-with openapi_client.ApiClient() as api_client:
+with openapi_client.ApiClient(configuration) as api_client:
     # Create an instance of the API class
     api_instance = openapi_client.StatusApi(api_client)
-    
+
     try:
         # Obtain server status
         api_response = api_instance.get_status()
