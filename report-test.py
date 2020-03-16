@@ -12,9 +12,11 @@ import openapi_client
 from openapi_client.rest import ApiException
 from pprint import pprint
 
+import csv
 
 CONFIGDIR = '.koku'
 CREDENTIALSFILE = 'config'
+OUTPUTDIR = "output"
 
 ENV_USERNAME = "KOKU_USERNAME"
 ENV_PASSWORD = "KOKU_PASSWORD"
@@ -76,6 +78,18 @@ if(len(username) == 0 or len(password) == 0):
 configuration = openapi_client.Configuration()
 configuration.username = username
 configuration.password = password
+
+# Let's get a list of sources and pretty print them in a csv file
+with openapi_client.ApiClient(configuration) as api_client:
+    outputfile = OUTPUTDIR + '/' + 'sources'
+    # Create an instance of the API class
+    api_instance = openapi_client.SourcesApi(api_client)
+    try:
+        # Read the list of models
+        api_response = api_instance.list_sources()
+        pprint(api_response)
+    except ApiException as e:
+        print("Exception when calling SourcesApi->list_sources: %s\n" % e)
 
 
 with openapi_client.ApiClient(configuration) as api_client:

@@ -265,7 +265,7 @@ Name | Type | Description  | Notes
 ### HTTP response details
 | Status code | Description | Response headers |
 |-------------|-------------|------------------|
-**200** | A Provider object |  -  |
+**200** | A Source object |  -  |
 **404** | Not Found |  -  |
 **500** | Unexpected Error |  -  |
 
