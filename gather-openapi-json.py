@@ -2,6 +2,20 @@
 unset DOWNLOAD
 OUTPUT_FILE=openapi.json
 JSON_URL="https://cloud.redhat.com/api/cost-management/v1/openapi.json"
+OPENAPI_GENERATOR="openapi-generator"
+
+echo "DOWNLOADING new version of $OUTPUT_FILE"
+echo "Testing that the openapigenerator is installed"
+
+if [ -x "$(command -v "$OPENAPI_GENERATOR")" ]
+then
+  echo "Is installed"
+  
+else
+  echo "Missing $OPENAPI_GENERATOR. Please install it before calling $0"
+  exit 2
+fi
+
 
 while getopts uf:h option
   do

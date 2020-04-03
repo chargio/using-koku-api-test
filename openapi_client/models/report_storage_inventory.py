@@ -33,75 +33,23 @@ class ReportStorageInventory(object):
                             and the value is json key in definition.
     """
     openapi_types = {
-        'meta': 'ReportPaginationMeta',
-        'links': 'PaginationLinks',
         'data': 'list[object]'
     }
 
     attribute_map = {
-        'meta': 'meta',
-        'links': 'links',
         'data': 'data'
     }
 
-    def __init__(self, meta=None, links=None, data=None, local_vars_configuration=None):  # noqa: E501
+    def __init__(self, data=None, local_vars_configuration=None):  # noqa: E501
         """ReportStorageInventory - a model defined in OpenAPI"""  # noqa: E501
         if local_vars_configuration is None:
             local_vars_configuration = Configuration()
         self.local_vars_configuration = local_vars_configuration
 
-        self._meta = None
-        self._links = None
         self._data = None
         self.discriminator = None
 
-        if meta is not None:
-            self.meta = meta
-        if links is not None:
-            self.links = links
         self.data = data
-
-    @property
-    def meta(self):
-        """Gets the meta of this ReportStorageInventory.  # noqa: E501
-
-
-        :return: The meta of this ReportStorageInventory.  # noqa: E501
-        :rtype: ReportPaginationMeta
-        """
-        return self._meta
-
-    @meta.setter
-    def meta(self, meta):
-        """Sets the meta of this ReportStorageInventory.
-
-
-        :param meta: The meta of this ReportStorageInventory.  # noqa: E501
-        :type: ReportPaginationMeta
-        """
-
-        self._meta = meta
-
-    @property
-    def links(self):
-        """Gets the links of this ReportStorageInventory.  # noqa: E501
-
-
-        :return: The links of this ReportStorageInventory.  # noqa: E501
-        :rtype: PaginationLinks
-        """
-        return self._links
-
-    @links.setter
-    def links(self, links):
-        """Sets the links of this ReportStorageInventory.
-
-
-        :param links: The links of this ReportStorageInventory.  # noqa: E501
-        :type: PaginationLinks
-        """
-
-        self._links = links
 
     @property
     def data(self):

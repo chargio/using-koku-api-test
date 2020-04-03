@@ -32,6 +32,7 @@ configuration.password = 'YOUR_PASSWORD'
 
 # Defining host is optional and default to https://cloud.redhat.com/api/cost-management/v1
 configuration.host = "https://cloud.redhat.com/api/cost-management/v1"
+
 # Enter a context with an instance of the API client
 with openapi_client.ApiClient(configuration) as api_client:
     # Create an instance of the API class
@@ -95,6 +96,7 @@ configuration.password = 'YOUR_PASSWORD'
 
 # Defining host is optional and default to https://cloud.redhat.com/api/cost-management/v1
 configuration.host = "https://cloud.redhat.com/api/cost-management/v1"
+
 # Enter a context with an instance of the API client
 with openapi_client.ApiClient(configuration) as api_client:
     # Create an instance of the API class
@@ -158,6 +160,7 @@ configuration.password = 'YOUR_PASSWORD'
 
 # Defining host is optional and default to https://cloud.redhat.com/api/cost-management/v1
 configuration.host = "https://cloud.redhat.com/api/cost-management/v1"
+
 # Enter a context with an instance of the API client
 with openapi_client.ApiClient(configuration) as api_client:
     # Create an instance of the API class
@@ -222,6 +225,7 @@ configuration.password = 'YOUR_PASSWORD'
 
 # Defining host is optional and default to https://cloud.redhat.com/api/cost-management/v1
 configuration.host = "https://cloud.redhat.com/api/cost-management/v1"
+
 # Enter a context with an instance of the API client
 with openapi_client.ApiClient(configuration) as api_client:
     # Create an instance of the API class
@@ -297,6 +301,7 @@ configuration.password = 'YOUR_PASSWORD'
 
 # Defining host is optional and default to https://cloud.redhat.com/api/cost-management/v1
 configuration.host = "https://cloud.redhat.com/api/cost-management/v1"
+
 # Enter a context with an instance of the API client
 with openapi_client.ApiClient(configuration) as api_client:
     # Create an instance of the API class

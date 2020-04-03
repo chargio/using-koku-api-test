@@ -4,9 +4,9 @@
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
 **id** | **int** |  | 
-**source_type** | **str** |  | 
 **uuid** | **str** |  | [optional] 
 **name** | **str** |  | [optional] 
+**source_type** | **str** |  | [optional] 
 **authentication** | [**object**](.md) | Dictionary containing resource name. | [optional] 
 **billing_source** | [**object**](.md) | Dictionary containing billing source. | [optional] 
 **provider_linked** | **bool** | Flag to indicate if provider is linked to source. | [optional] [default to False]

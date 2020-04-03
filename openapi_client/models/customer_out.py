@@ -33,54 +33,27 @@ class CustomerOut(object):
                             and the value is json key in definition.
     """
     openapi_types = {
-        'account_id': 'str',
         'uuid': 'str',
         'date_created': 'datetime'
     }
 
     attribute_map = {
-        'account_id': 'account_id',
         'uuid': 'uuid',
         'date_created': 'date_created'
     }
 
-    def __init__(self, account_id=None, uuid=None, date_created=None, local_vars_configuration=None):  # noqa: E501
+    def __init__(self, uuid=None, date_created=None, local_vars_configuration=None):  # noqa: E501
         """CustomerOut - a model defined in OpenAPI"""  # noqa: E501
         if local_vars_configuration is None:
             local_vars_configuration = Configuration()
         self.local_vars_configuration = local_vars_configuration
 
-        self._account_id = None
         self._uuid = None
         self._date_created = None
         self.discriminator = None
 
-        self.account_id = account_id
         self.uuid = uuid
         self.date_created = date_created
-
-    @property
-    def account_id(self):
-        """Gets the account_id of this CustomerOut.  # noqa: E501
-
-
-        :return: The account_id of this CustomerOut.  # noqa: E501
-        :rtype: str
-        """
-        return self._account_id
-
-    @account_id.setter
-    def account_id(self, account_id):
-        """Sets the account_id of this CustomerOut.
-
-
-        :param account_id: The account_id of this CustomerOut.  # noqa: E501
-        :type: str
-        """
-        if self.local_vars_configuration.client_side_validation and account_id is None:  # noqa: E501
-            raise ValueError("Invalid value for `account_id`, must not be `None`")  # noqa: E501
-
-        self._account_id = account_id
 
     @property
     def uuid(self):
