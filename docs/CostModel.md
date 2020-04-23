@@ -6,7 +6,7 @@ Name | Type | Description | Notes
 **name** | **str** |  | 
 **description** | **str** |  | 
 **source_type** | **str** |  | 
-**provider_uuids** | **list[str]** |  | [optional] 
+**source_uuids** | **list[str]** |  | [optional] 
 **rates** | [**list[Rate]**](Rate.md) |  | [optional] 
 **markup** | [**Markup**](Markup.md) |  | [optional] 
 

@@ -4,6 +4,8 @@ The ordering to apply to the report. Default is ascending order for the data.
 ## Properties
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
+**infrastructure** | **str** |  | [optional] 
+**supplementary** | **str** |  | [optional] 
 **cost** | **str** |  | [optional] 
 **usage** | **str** |  | [optional] 
 **delta** | **str** |  | [optional] 

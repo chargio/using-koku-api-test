@@ -1,0 +1,733 @@
+[main] INFO  o.o.codegen.DefaultGenerator - Generating with dryRun=false
+[main] INFO  o.o.codegen.DefaultGenerator - OpenAPI Generator: python (client)
+[main] INFO  o.o.codegen.DefaultGenerator - Generator 'python' is considered stable.
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] INFO  o.o.c.languages.PythonClientCodegen - Environment variable PYTHON_POST_PROCESS_FILE not defined so the Python code may not be properly formatted. To define it, try 'export PYTHON_POST_PROCESS_FILE="/usr/local/bin/yapf -i"' (Linux/Mac)
+[main] INFO  o.o.c.languages.PythonClientCodegen - NOTE: To enable file post-processing, 'enablePostProcessFile' must be set to `true` (--enable-post-process-file for CLI).
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: null
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: null
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: null
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: null
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: null
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: null
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: null
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: null
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: null
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: null
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for null. Title: null
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: null
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: null
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: null
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: null
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for null. Title: null
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: null
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for null. Title: null
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: null
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: null
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: null
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: null
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: null
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/cost_model.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_cost_model.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/CostModel.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/cost_model_out.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_cost_model_out.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/CostModelOut.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/cost_model_out_all_of.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_cost_model_out_all_of.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/CostModelOutAllOf.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/cost_model_pagination.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_cost_model_pagination.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/CostModelPagination.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/cost_model_pagination_all_of.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_cost_model_pagination_all_of.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/CostModelPaginationAllOf.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/cost_model_resp.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_cost_model_resp.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/CostModelResp.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/cost_model_resp_sources.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./test/test_cost_model_resp_sources.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/CostModelRespSources.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/customer.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_customer.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/Customer.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/customer_out.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_customer_out.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/CustomerOut.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/customer_out_all_of.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_customer_out_all_of.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/CustomerOutAllOf.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/dependency_error.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./test/test_dependency_error.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/DependencyError.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/error.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_error.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/Error.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/list_pagination.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_list_pagination.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ListPagination.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/markup.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_markup.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/Markup.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/metrics.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_metrics.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/Metrics.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/metrics_all_of.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_metrics_all_of.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/MetricsAllOf.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/metrics_out.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_metrics_out.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/MetricsOut.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/pagination_links.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_pagination_links.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/PaginationLinks.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/pagination_meta.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_pagination_meta.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/PaginationMeta.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/rate.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_rate.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/Rate.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/Report.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_azure_filter.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_azure_filter.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportAzureFilter.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_azure_grouping.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_azure_grouping.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportAzureGrouping.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_azure_ordering.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_azure_ordering.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportAzureOrdering.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_cost.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_cost.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportCost.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_cost_all_of.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_cost_all_of.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportCostAllOf.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_costs.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_costs.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportCosts.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_costs_all_of.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_costs_all_of.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportCostsAllOf.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_costs_open_shift_ordering.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_costs_open_shift_ordering.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportCostsOpenShiftOrdering.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_delta.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_delta.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportDelta.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_filter.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_filter.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportFilter.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_grouping.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_grouping.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportGrouping.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_instance_inventory.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_instance_inventory.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportInstanceInventory.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_inventory_open_shift_ordering.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_inventory_open_shift_ordering.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportInventoryOpenShiftOrdering.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_open_shift_aws_filter.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_open_shift_aws_filter.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportOpenShiftAWSFilter.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_open_shift_aws_grouping.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_open_shift_aws_grouping.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportOpenShiftAWSGrouping.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_open_shift_aws_instance_inventory.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_open_shift_aws_instance_inventory.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportOpenShiftAWSInstanceInventory.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_open_shift_aws_instance_inventory_all_of.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_open_shift_aws_instance_inventory_all_of.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportOpenShiftAWSInstanceInventoryAllOf.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_open_shift_aws_ordering.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_open_shift_aws_ordering.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportOpenShiftAWSOrdering.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_open_shift_aws_storage_inventory.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_open_shift_aws_storage_inventory.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportOpenShiftAWSStorageInventory.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_open_shift_aws_storage_inventory_all_of.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_open_shift_aws_storage_inventory_all_of.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportOpenShiftAWSStorageInventoryAllOf.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_open_shift_all_instance_inventory.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./test/test_report_open_shift_all_instance_inventory.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportOpenShiftAllInstanceInventory.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_open_shift_all_storage_inventory.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./test/test_report_open_shift_all_storage_inventory.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportOpenShiftAllStorageInventory.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_open_shift_azure_filter.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_open_shift_azure_filter.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportOpenShiftAzureFilter.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_open_shift_azure_grouping.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_open_shift_azure_grouping.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportOpenShiftAzureGrouping.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_open_shift_azure_instance_inventory.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_open_shift_azure_instance_inventory.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportOpenShiftAzureInstanceInventory.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_open_shift_azure_ordering.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_open_shift_azure_ordering.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportOpenShiftAzureOrdering.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_open_shift_azure_storage_inventory.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_open_shift_azure_storage_inventory.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportOpenShiftAzureStorageInventory.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_open_shift_azure_storage_inventory_all_of.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_open_shift_azure_storage_inventory_all_of.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportOpenShiftAzureStorageInventoryAllOf.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_open_shift_cpu.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_open_shift_cpu.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportOpenShiftCpu.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_open_shift_cpu_all_of.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_open_shift_cpu_all_of.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportOpenShiftCpuAllOf.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_open_shift_filter.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_open_shift_filter.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportOpenShiftFilter.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_open_shift_grouping.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_open_shift_grouping.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportOpenShiftGrouping.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_open_shift_memory.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_open_shift_memory.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportOpenShiftMemory.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_open_shift_memory_all_of.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_open_shift_memory_all_of.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportOpenShiftMemoryAllOf.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_open_shift_volume.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_open_shift_volume.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportOpenShiftVolume.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_open_shift_volume_all_of.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_open_shift_volume_all_of.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportOpenShiftVolumeAllOf.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_ordering.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_ordering.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportOrdering.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_pagination_meta.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_pagination_meta.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportPaginationMeta.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_resolution.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_resolution.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportResolution.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_resource_scope.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_resource_scope.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportResourceScope.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_storage_inventory.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_storage_inventory.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportStorageInventory.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_storage_inventory_all_of.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_storage_inventory_all_of.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportStorageInventoryAllOf.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_time_scope_units.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_time_scope_units.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportTimeScopeUnits.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/report_time_scope_value.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_report_time_scope_value.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/ReportTimeScopeValue.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/setting_in.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_setting_in.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/SettingIn.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/setting_out.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_setting_out.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/SettingOut.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/source.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_source.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/Source.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/source_in.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_source_in.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/SourceIn.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/source_in_all_of.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_source_in_all_of.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/SourceInAllOf.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/source_out.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_source_out.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/SourceOut.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/source_out_all_of.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_source_out_all_of.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/SourceOutAllOf.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/source_out_all_of_cost_models.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_source_out_all_of_cost_models.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/SourceOutAllOfCostModels.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/source_pagination.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_source_pagination.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/SourcePagination.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/source_pagination_all_of.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_source_pagination_all_of.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/SourcePaginationAllOf.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/status.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_status.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/Status.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/tags.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_tags.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/Tags.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/tags_filter.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_tags_filter.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/TagsFilter.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/user.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_user.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/User.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/user_out.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_user_out.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/UserOut.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/user_out_all_of.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_user_out_all_of.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/UserOutAllOf.md
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: CostModelPagination
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: CostModelOut
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: CostModelOut
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: CostModelOut
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: Metrics
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: ReportCost
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: ReportCost
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: ReportCost
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: ReportInstanceInventory
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for null. Title: ReportInstanceInventory
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: ReportInstanceInventory
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for null. Title: ReportInstanceInventory
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: ReportStorageInventory
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: ReportStorageInventory
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: ReportOpenShiftCpu
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: ReportOpenShiftMemory
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: ReportOpenShiftVolume
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: ReportCosts
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: ReportOpenShiftAllStorageInventory
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for null. Title: ReportOpenShiftAllStorageInventory
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: ReportOpenShiftAllInstanceInventory
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for null. Title: ReportOpenShiftAllInstanceInventory
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: ReportCosts
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: ReportOpenShiftAWSStorageInventory
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: ReportOpenShiftAWSInstanceInventory
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: ReportCosts
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: ReportOpenShiftAzureStorageInventory
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.codegen.utils.ModelUtils - Multiple schemas found in the OAS 'content' section, returning only the first one (application/json)
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: SourcePagination
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: SourceOut
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: null. Title: SourceOut
+[main] WARN  o.o.codegen.utils.ModelUtils - [deprecated] inheritance without use of 'discriminator.propertyName' is deprecated and will be removed in a future release. Generating model for composed schema name: SourceIn. Title: null
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type null not handled properly in toExampleValue
+[main] WARN  o.o.c.languages.PythonClientCodegen - Type object not handled properly in setParameterExampleValue
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/api/aws_reports_api.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_aws_reports_api.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/AWSReportsApi.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/api/azure_reports_api.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_azure_reports_api.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/AzureReportsApi.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/api/cost_models_api.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_cost_models_api.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/CostModelsApi.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/api/metrics_api.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_metrics_api.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/MetricsApi.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/api/open_shift_reports_api.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_open_shift_reports_api.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/OpenShiftReportsApi.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/api/settings_api.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_settings_api.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/SettingsApi.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/api/sources_api.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_sources_api.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/SourcesApi.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/api/status_api.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_status_api.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/StatusApi.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/api/tags_api.py
+[main] INFO  o.o.codegen.DefaultGenerator - File exists. Skipped overwriting ./test/test_tags_api.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./docs/TagsApi.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./README.md
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./tox.ini
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./test-requirements.txt
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./requirements.txt
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./setup.cfg
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./git_push.sh
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./.gitignore
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./.travis.yml
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./.gitlab-ci.yml
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./setup.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/configuration.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/__init__.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/models/__init__.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/api/__init__.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/exceptions.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./test/__init__.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/api_client.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./openapi_client/rest.py
+[main] INFO  o.o.codegen.AbstractGenerator - writing file ./.openapi-generator/VERSION

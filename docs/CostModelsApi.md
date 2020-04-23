@@ -4,11 +4,11 @@ All URIs are relative to *https://cloud.redhat.com/api/cost-management/v1*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
-[**create_cost_model**](CostModelsApi.md#create_cost_model) | **POST** /costmodels/ | Create a new cost model.
-[**delete_cost_model**](CostModelsApi.md#delete_cost_model) | **DELETE** /costmodels/{cost_model_uuid}/ | Delete a Cost Model
-[**get_cost_model**](CostModelsApi.md#get_cost_model) | **GET** /costmodels/{cost_model_uuid}/ | Get a Cost Model.
-[**list_cost_models**](CostModelsApi.md#list_cost_models) | **GET** /costmodels/ | List the cost models
-[**update_cost_model**](CostModelsApi.md#update_cost_model) | **PUT** /costmodels/{cost_model_uuid}/ | Update a Cost Model
+[**create_cost_model**](CostModelsApi.md#create_cost_model) | **POST** /cost-models/ | Create a new cost model.
+[**delete_cost_model**](CostModelsApi.md#delete_cost_model) | **DELETE** /cost-models/{cost_model_uuid}/ | Delete a Cost Model
+[**get_cost_model**](CostModelsApi.md#get_cost_model) | **GET** /cost-models/{cost_model_uuid}/ | Get a Cost Model.
+[**list_cost_models**](CostModelsApi.md#list_cost_models) | **GET** /cost-models/ | List the cost models
+[**update_cost_model**](CostModelsApi.md#update_cost_model) | **PUT** /cost-models/{cost_model_uuid}/ | Update a Cost Model
 
 
 # **create_cost_model**
@@ -205,7 +205,7 @@ Name | Type | Description  | Notes
 [[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
 
 # **list_cost_models**
-> CostModelPagination list_cost_models(offset=offset, limit=limit, provider_uuid=provider_uuid, source_type=source_type, name=name, description=description, ordering=ordering)
+> CostModelPagination list_cost_models(offset=offset, limit=limit, source_uuid=source_uuid, source_type=source_type, name=name, description=description, ordering=ordering)
 
 List the cost models
 
@@ -232,15 +232,15 @@ with openapi_client.ApiClient(configuration) as api_client:
     api_instance = openapi_client.CostModelsApi(api_client)
     offset = 0 # int | Parameter for selecting the offset of data. (optional) (default to 0)
 limit = 10 # int | Parameter for selecting the amount of data in a returned. (optional) (default to 10)
-provider_uuid = 'provider_uuid_example' # str | Filter response on provider uuid. (optional)
-source_type = 'source_type_example' # str | Filter response on provider source type. (optional)
+source_uuid = 'source_uuid_example' # str | Filter response on source uuid. (optional)
+source_type = 'source_type_example' # str | Filter response on source type. (optional)
 name = 'name_example' # str | Filter response on cost model name. (optional)
 description = 'description_example' # str | Filter response on cost model description. (optional)
 ordering = 'ordering_example' # str | Order response on cost model by allowed fields. (optional)
 
     try:
         # List the cost models
-        api_response = api_instance.list_cost_models(offset=offset, limit=limit, provider_uuid=provider_uuid, source_type=source_type, name=name, description=description, ordering=ordering)
+        api_response = api_instance.list_cost_models(offset=offset, limit=limit, source_uuid=source_uuid, source_type=source_type, name=name, description=description, ordering=ordering)
         pprint(api_response)
     except ApiException as e:
         print("Exception when calling CostModelsApi->list_cost_models: %s\n" % e)
@@ -252,8 +252,8 @@ Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
  **offset** | **int**| Parameter for selecting the offset of data. | [optional] [default to 0]
  **limit** | **int**| Parameter for selecting the amount of data in a returned. | [optional] [default to 10]
- **provider_uuid** | [**str**](.md)| Filter response on provider uuid. | [optional] 
- **source_type** | **str**| Filter response on provider source type. | [optional] 
+ **source_uuid** | [**str**](.md)| Filter response on source uuid. | [optional] 
+ **source_type** | **str**| Filter response on source type. | [optional] 
  **name** | **str**| Filter response on cost model name. | [optional] 
  **description** | **str**| Filter response on cost model description. | [optional] 
  **ordering** | **str**| Order response on cost model by allowed fields. | [optional] 

@@ -9,7 +9,7 @@ Method | HTTP request | Description
 
 
 # **assign_settings**
-> assign_settings(setting_in=setting_in)
+> assign_settings(setting_in)
 
 Assign to cost management settings
 
@@ -34,11 +34,11 @@ configuration.host = "https://cloud.redhat.com/api/cost-management/v1"
 with openapi_client.ApiClient(configuration) as api_client:
     # Create an instance of the API class
     api_instance = openapi_client.SettingsApi(api_client)
-    setting_in = openapi_client.SettingIn() # SettingIn | Application settings that needs to stored (optional)
+    setting_in = openapi_client.SettingIn() # SettingIn | Application settings that needs to stored
 
     try:
         # Assign to cost management settings
-        api_instance.assign_settings(setting_in=setting_in)
+        api_instance.assign_settings(setting_in)
     except ApiException as e:
         print("Exception when calling SettingsApi->assign_settings: %s\n" % e)
 ```
@@ -47,7 +47,7 @@ with openapi_client.ApiClient(configuration) as api_client:
 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
- **setting_in** | [**SettingIn**](SettingIn.md)| Application settings that needs to stored | [optional] 
+ **setting_in** | [**SettingIn**](SettingIn.md)| Application settings that needs to stored | 
 
 ### Return type
 

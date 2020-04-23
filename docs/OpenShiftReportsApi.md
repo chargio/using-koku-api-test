@@ -4,6 +4,9 @@ All URIs are relative to *https://cloud.redhat.com/api/cost-management/v1*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
+[**get_open_shift_all_cost_reports**](OpenShiftReportsApi.md#get_open_shift_all_cost_reports) | **GET** /reports/openshift/infrastructures/all/costs/ | Query to obtain OpenShift on all infrastructures cost reports
+[**get_open_shift_all_inventory_instance_report**](OpenShiftReportsApi.md#get_open_shift_all_inventory_instance_report) | **GET** /reports/openshift/infrastructures/all/instance-types/ | Query to obtain OpenShift on all infrastructures instance data
+[**get_open_shift_all_inventory_storage_report**](OpenShiftReportsApi.md#get_open_shift_all_inventory_storage_report) | **GET** /reports/openshift/infrastructures/all/storage/ | Query to obtain OpenShift on all infrastructures storage data
 [**get_open_shift_aws_cost_reports**](OpenShiftReportsApi.md#get_open_shift_aws_cost_reports) | **GET** /reports/openshift/infrastructures/aws/costs/ | Query to obtain OpenShift on AWS cost reports
 [**get_open_shift_aws_inventory_instance_report**](OpenShiftReportsApi.md#get_open_shift_aws_inventory_instance_report) | **GET** /reports/openshift/infrastructures/aws/instance-types/ | Query to obtain OpenShift on AWS instance data
 [**get_open_shift_aws_inventory_storage_report**](OpenShiftReportsApi.md#get_open_shift_aws_inventory_storage_report) | **GET** /reports/openshift/infrastructures/aws/storage/ | Query to obtain OpenShift on AWS storage data
@@ -15,6 +18,228 @@ Method | HTTP request | Description
 [**get_open_shift_memory_reports**](OpenShiftReportsApi.md#get_open_shift_memory_reports) | **GET** /reports/openshift/memory/ | Query to obtain OpenShift memory usage information
 [**get_open_shift_volume_reports**](OpenShiftReportsApi.md#get_open_shift_volume_reports) | **GET** /reports/openshift/volumes/ | Query to obtain OpenShift volume usage information
 
+
+# **get_open_shift_all_cost_reports**
+> ReportCosts get_open_shift_all_cost_reports(delta=delta, filter=filter, group_by=group_by, order_by=order_by, offset=offset, limit=limit)
+
+Query to obtain OpenShift on all infrastructures cost reports
+
+### Example
+
+* Basic Authentication (basic_auth):
+```python
+from __future__ import print_function
+import time
+import openapi_client
+from openapi_client.rest import ApiException
+from pprint import pprint
+configuration = openapi_client.Configuration()
+# Configure HTTP basic authorization: basic_auth
+configuration.username = 'YOUR_USERNAME'
+configuration.password = 'YOUR_PASSWORD'
+
+# Defining host is optional and default to https://cloud.redhat.com/api/cost-management/v1
+configuration.host = "https://cloud.redhat.com/api/cost-management/v1"
+
+# Enter a context with an instance of the API client
+with openapi_client.ApiClient(configuration) as api_client:
+    # Create an instance of the API class
+    api_instance = openapi_client.OpenShiftReportsApi(api_client)
+    delta = 'delta_example' # str | Toggle to include delta values in report. (optional)
+filter = None # object | The filter to apply to the report as a URL encoded dictionary. (optional)
+group_by = None # object | The grouping to apply to the report as a URL encoded dictionary. (optional)
+order_by = None # object | The ordering to apply to the report as a URL encoded dictionary. (optional)
+offset = 0 # int | Parameter for selecting the offset of data. (optional) (default to 0)
+limit = 100 # int | Parameter for selecting the amount of data in a returned. (optional) (default to 100)
+
+    try:
+        # Query to obtain OpenShift on all infrastructures cost reports
+        api_response = api_instance.get_open_shift_all_cost_reports(delta=delta, filter=filter, group_by=group_by, order_by=order_by, offset=offset, limit=limit)
+        pprint(api_response)
+    except ApiException as e:
+        print("Exception when calling OpenShiftReportsApi->get_open_shift_all_cost_reports: %s\n" % e)
+```
+
+### Parameters
+
+Name | Type | Description  | Notes
+------------- | ------------- | ------------- | -------------
+ **delta** | **str**| Toggle to include delta values in report. | [optional] 
+ **filter** | [**object**](.md)| The filter to apply to the report as a URL encoded dictionary. | [optional] 
+ **group_by** | [**object**](.md)| The grouping to apply to the report as a URL encoded dictionary. | [optional] 
+ **order_by** | [**object**](.md)| The ordering to apply to the report as a URL encoded dictionary. | [optional] 
+ **offset** | **int**| Parameter for selecting the offset of data. | [optional] [default to 0]
+ **limit** | **int**| Parameter for selecting the amount of data in a returned. | [optional] [default to 100]
+
+### Return type
+
+[**ReportCosts**](ReportCosts.md)
+
+### Authorization
+
+[basic_auth](../README.md#basic_auth)
+
+### HTTP request headers
+
+ - **Content-Type**: Not defined
+ - **Accept**: application/json, text/csv
+
+### HTTP response details
+| Status code | Description | Response headers |
+|-------------|-------------|------------------|
+**200** | A paginated report object |  -  |
+**401** | Unauthorized |  -  |
+**500** | Unexpected Error |  -  |
+
+[[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
+
+# **get_open_shift_all_inventory_instance_report**
+> ReportOpenShiftAllInstanceInventory get_open_shift_all_inventory_instance_report(filter=filter, group_by=group_by, order_by=order_by, units=units, offset=offset, limit=limit)
+
+Query to obtain OpenShift on all infrastructures instance data
+
+### Example
+
+* Basic Authentication (basic_auth):
+```python
+from __future__ import print_function
+import time
+import openapi_client
+from openapi_client.rest import ApiException
+from pprint import pprint
+configuration = openapi_client.Configuration()
+# Configure HTTP basic authorization: basic_auth
+configuration.username = 'YOUR_USERNAME'
+configuration.password = 'YOUR_PASSWORD'
+
+# Defining host is optional and default to https://cloud.redhat.com/api/cost-management/v1
+configuration.host = "https://cloud.redhat.com/api/cost-management/v1"
+
+# Enter a context with an instance of the API client
+with openapi_client.ApiClient(configuration) as api_client:
+    # Create an instance of the API class
+    api_instance = openapi_client.OpenShiftReportsApi(api_client)
+    filter = None # object | The filter to apply to the report as a URL encoded dictionary. (optional)
+group_by = None # object | The grouping to apply to the report as a URL encoded dictionary. (optional)
+order_by = None # object | The ordering to apply to the report as a URL encoded dictionary. (optional)
+units = 'units_example' # str | The units used to report data. (optional)
+offset = 0 # int | Parameter for selecting the offset of data. (optional) (default to 0)
+limit = 100 # int | Parameter for selecting the amount of data in a returned. (optional) (default to 100)
+
+    try:
+        # Query to obtain OpenShift on all infrastructures instance data
+        api_response = api_instance.get_open_shift_all_inventory_instance_report(filter=filter, group_by=group_by, order_by=order_by, units=units, offset=offset, limit=limit)
+        pprint(api_response)
+    except ApiException as e:
+        print("Exception when calling OpenShiftReportsApi->get_open_shift_all_inventory_instance_report: %s\n" % e)
+```
+
+### Parameters
+
+Name | Type | Description  | Notes
+------------- | ------------- | ------------- | -------------
+ **filter** | [**object**](.md)| The filter to apply to the report as a URL encoded dictionary. | [optional] 
+ **group_by** | [**object**](.md)| The grouping to apply to the report as a URL encoded dictionary. | [optional] 
+ **order_by** | [**object**](.md)| The ordering to apply to the report as a URL encoded dictionary. | [optional] 
+ **units** | **str**| The units used to report data. | [optional] 
+ **offset** | **int**| Parameter for selecting the offset of data. | [optional] [default to 0]
+ **limit** | **int**| Parameter for selecting the amount of data in a returned. | [optional] [default to 100]
+
+### Return type
+
+[**ReportOpenShiftAllInstanceInventory**](ReportOpenShiftAllInstanceInventory.md)
+
+### Authorization
+
+[basic_auth](../README.md#basic_auth)
+
+### HTTP request headers
+
+ - **Content-Type**: Not defined
+ - **Accept**: application/json, text/csv
+
+### HTTP response details
+| Status code | Description | Response headers |
+|-------------|-------------|------------------|
+**200** | A paginated report object |  -  |
+**401** | Unauthorized |  -  |
+**500** | Unexpected Error |  -  |
+
+[[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
+
+# **get_open_shift_all_inventory_storage_report**
+> ReportOpenShiftAllStorageInventory get_open_shift_all_inventory_storage_report(filter=filter, group_by=group_by, order_by=order_by, units=units, offset=offset, limit=limit)
+
+Query to obtain OpenShift on all infrastructures storage data
+
+### Example
+
+* Basic Authentication (basic_auth):
+```python
+from __future__ import print_function
+import time
+import openapi_client
+from openapi_client.rest import ApiException
+from pprint import pprint
+configuration = openapi_client.Configuration()
+# Configure HTTP basic authorization: basic_auth
+configuration.username = 'YOUR_USERNAME'
+configuration.password = 'YOUR_PASSWORD'
+
+# Defining host is optional and default to https://cloud.redhat.com/api/cost-management/v1
+configuration.host = "https://cloud.redhat.com/api/cost-management/v1"
+
+# Enter a context with an instance of the API client
+with openapi_client.ApiClient(configuration) as api_client:
+    # Create an instance of the API class
+    api_instance = openapi_client.OpenShiftReportsApi(api_client)
+    filter = None # object | The filter to apply to the report as a URL encoded dictionary. (optional)
+group_by = None # object | The grouping to apply to the report as a URL encoded dictionary. (optional)
+order_by = None # object | The ordering to apply to the report as a URL encoded dictionary. (optional)
+units = 'units_example' # str | The units used to report data. (optional)
+offset = 0 # int | Parameter for selecting the offset of data. (optional) (default to 0)
+limit = 100 # int | Parameter for selecting the amount of data in a returned. (optional) (default to 100)
+
+    try:
+        # Query to obtain OpenShift on all infrastructures storage data
+        api_response = api_instance.get_open_shift_all_inventory_storage_report(filter=filter, group_by=group_by, order_by=order_by, units=units, offset=offset, limit=limit)
+        pprint(api_response)
+    except ApiException as e:
+        print("Exception when calling OpenShiftReportsApi->get_open_shift_all_inventory_storage_report: %s\n" % e)
+```
+
+### Parameters
+
+Name | Type | Description  | Notes
+------------- | ------------- | ------------- | -------------
+ **filter** | [**object**](.md)| The filter to apply to the report as a URL encoded dictionary. | [optional] 
+ **group_by** | [**object**](.md)| The grouping to apply to the report as a URL encoded dictionary. | [optional] 
+ **order_by** | [**object**](.md)| The ordering to apply to the report as a URL encoded dictionary. | [optional] 
+ **units** | **str**| The units used to report data. | [optional] 
+ **offset** | **int**| Parameter for selecting the offset of data. | [optional] [default to 0]
+ **limit** | **int**| Parameter for selecting the amount of data in a returned. | [optional] [default to 100]
+
+### Return type
+
+[**ReportOpenShiftAllStorageInventory**](ReportOpenShiftAllStorageInventory.md)
+
+### Authorization
+
+[basic_auth](../README.md#basic_auth)
+
+### HTTP request headers
+
+ - **Content-Type**: Not defined
+ - **Accept**: application/json, text/csv
+
+### HTTP response details
+| Status code | Description | Response headers |
+|-------------|-------------|------------------|
+**200** | A paginated report object |  -  |
+**401** | Unauthorized |  -  |
+**500** | Unexpected Error |  -  |
+
+[[Back to top]](#) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to Model list]](../README.md#documentation-for-models) [[Back to README]](../README.md)
 
 # **get_open_shift_aws_cost_reports**
 > ReportCosts get_open_shift_aws_cost_reports(delta=delta, filter=filter, group_by=group_by, order_by=order_by, offset=offset, limit=limit)

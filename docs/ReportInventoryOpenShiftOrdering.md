@@ -9,6 +9,8 @@ Name | Type | Description | Notes
 **node** | **str** |  | [optional] 
 **usage** | **str** |  | [optional] 
 **request** | **str** |  | [optional] 
+**infrastructure** | **str** |  | [optional] 
+**supplementary** | **str** |  | [optional] 
 **cost** | **str** |  | [optional] 
 **limit** | **str** |  | [optional] 
 

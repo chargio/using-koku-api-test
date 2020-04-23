@@ -270,6 +270,7 @@ Name | Type | Description  | Notes
 | Status code | Description | Response headers |
 |-------------|-------------|------------------|
 **200** | A Source object |  -  |
+**424** | Dependency not available |  -  |
 **404** | Not Found |  -  |
 **500** | Unexpected Error |  -  |
 

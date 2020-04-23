@@ -27,9 +27,13 @@ while getopts uf:h option
 done
 
 
-if [ ! -z "$DOWNLOAD"]; then
+if [ ! -z "$DOWNLOAD" ]; then
   echo "Downloading api json to $OUTPUT_FILE"
   curl $JSON_URL -o $OUTPUT_FILE
+  if [[ $? != 0 ]]; then
+    echo "Failure downloading new json.api file"
+    exit 1
+  fi
 fi
 
 # Validate will generate an exeption is it is not right
@@ -37,9 +41,9 @@ echo "Validating file $OUTPUT_FILE"
 openapi-generator validate -i $OUTPUT_FILE
 if [[ $? != 0 ]]; then
   echo "Validation failed for file $OUTPUT_FILE"
-  exit 1
+  exit 2
 fi
 
 echo "Generating API in Python using $OUTPUT_FILE"
-openapi-generator generate -i $OUTPUT_FILE -g python
+openapi-generator generate -i $OUTPUT_FILE -g python > openapi-messages.txt
 
